@@ -1,10 +1,10 @@
 ### Hi there 👋 I'm Rachmadini Noveliq
 Data Scientist & Analyst | Digital Marketer
 
-🎓 Education: Full Stack Data Science & Machine Learning Bootcamp at Hacktiv8; Bachelor's Degree in Agribusiness from Universitas Sriwijaya. 
-🤝 Looking to Collaborate On: Data science, machine learning models, predictive analytics, computer vision, and LLM integration projects.
-🛠️ Skills: Proficient in Python, SQL, TensorFlow, Scikit-Learn, Streamlit, and Tableau.
-🚀 Passionate about bridging 3+ years of digital marketing expertise with advanced data analytics to translate complex data into practical, revenue-driving business strategies.
+* 🎓 Education: Full Stack Data Science & Machine Learning Bootcamp at Hacktiv8; Bachelor's Degree in Agribusiness from Universitas Sriwijaya. 
+* 🤝 Looking to Collaborate On: Data science, machine learning models, predictive analytics, computer vision, and LLM integration projects.
+* 🛠️ Skills: Proficient in Python, SQL, TensorFlow, Scikit-Learn, Streamlit, and Tableau.
+* 🚀 Passionate about bridging 3+ years of digital marketing expertise with advanced data analytics to translate complex data into practical, revenue-driving business strategies.
 
 ---
 
